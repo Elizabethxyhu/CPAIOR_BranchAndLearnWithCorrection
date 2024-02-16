@@ -1,4 +1,4 @@
-# CPAIOR23_BranchAndLearnWithCorrection
+# CPAIOR_BranchAndLearnWithCorrection
 
 This repository is the official implementation of the paper: Branch & Learn with Post-hoc Correction for Predict+Optimize with Unknown Parameters in Constraints.
 
